@@ -1,4 +1,4 @@
-                                                 ###Hi I'm Luyolo!👋
+                                                 ###  Hi I'm Luyolo!👋
 
 <hr>
                                        
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![](https://github.com/Luyolop1/Luyolop1/blob/main/81cabb6418a9f6babc3670c4acca3db3.gif)
 
- ###Tech Stack
+ ###  Tech Stack
 
  <img align="left" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
