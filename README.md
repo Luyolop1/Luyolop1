@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Full-stack Developer Building apps and Website using reactjs.
+I'm a Full-stack SoftwareDeveloper Building apps and Website using reactjs.
 All my projects are built from the ground up,from planning the aim is to solve real life problems with code,Typically inspired by ideation.
+
+<img  width="100px"  src="https://pin.it/1zHV8lAGm" />
+
 
  ### My Language and Tools
 
