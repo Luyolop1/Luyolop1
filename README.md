@@ -1,4 +1,4 @@
-                                                                    ### Hi there Call Me Almighty L.U👋
+                                                 ### Hi there Call Me Almighty L.U👋
 
 
                                        
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Full-stack SoftwareDeveloper Building apps and Website using reactjs.
+I'm a Full-stack Software Developer Building apps and Website using Reactjs.
 All my projects are built from the ground up,from planning the aim is to solve real life problems with code,Typically inspired by ideation.
 
 
