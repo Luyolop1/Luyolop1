@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡Software Developer (Developing Apps for Desktop and Mobile & Build Websites too).
-💬Studied At CodeTelligence NPC, Cape Town
-🌱Currently learning Data Analytics and Cloud Quantum Computing.
-🔭Intrested in Astronomy and Illustrations.
+⚡Software Developer (Developing Apps for Desktop and Mobile & Build Websites too).<br>
+💬Studied At CodeTelligence NPC, Cape Town.<br>
+🌱Currently learning Data Analytics and Cloud Quantum Computing.<br>
+🔭Intrested in Astronomy and Illustrations.<br>
 
 
 ![](https://github.com/Luyolop1/Luyolop1/blob/main/81cabb6418a9f6babc3670c4acca3db3.gif)
