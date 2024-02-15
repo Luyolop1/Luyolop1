@@ -20,7 +20,7 @@ I'm a Full-stack SoftwareDeveloper Building apps and Website using reactjs.
 All my projects are built from the ground up,from planning the aim is to solve real life problems with code,Typically inspired by ideation.
 
 
-                                            ![](https://github.com/Luyolop1/Luyolop1/blob/main/Ammu8A%20(1).gif)
+![](https://github.com/Luyolop1/Luyolop1/blob/main/Ammu8A%20(1).gif)
 
  ### My Language and Tools
 
