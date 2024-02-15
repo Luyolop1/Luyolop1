@@ -1,6 +1,6 @@
-                                                 ### Hi there Call Me Almighty L.U👋
+                                                 ### Hi I'm Luyolo!👋
 
-
+<hr>
                                        
 <!--
 **Luyolop1/Luyolop1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Full-stack Software Developer Building apps and Website using Reactjs.
-All my projects are built from the ground up,from planning the aim is to solve real life problems with code,Typically inspired by ideation.
+⚡Software Developer (Developing Apps for Desktop and Mobile & Build Websites too).
+💬Studied At CodeTelligence NPC, Cape Town
+🌱Currently learning Data Analytics and Cloud Quantum Computing.
+🔭Intrested in Astronomy and Illustrations.
 
 
 ![](https://github.com/Luyolop1/Luyolop1/blob/main/81cabb6418a9f6babc3670c4acca3db3.gif)
