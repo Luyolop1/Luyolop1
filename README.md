@@ -1,7 +1,7 @@
-                                                                    ### Hi there 👋
+                                                                    ### Hi there Call Me Almighty L.U👋
 
 
-                                        ![](https://github.com/Luyolop1/Luyolop1/blob/main/Ammu8A%20(1).gif)
+                                       
 <!--
 **Luyolop1/Luyolop1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +20,7 @@ I'm a Full-stack SoftwareDeveloper Building apps and Website using reactjs.
 All my projects are built from the ground up,from planning the aim is to solve real life problems with code,Typically inspired by ideation.
 
 
-
+ ![](https://github.com/Luyolop1/Luyolop1/blob/main/Ammu8A%20(1).gif)
 
  ### My Language and Tools
 
