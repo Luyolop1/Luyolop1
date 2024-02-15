@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
  ###  Tech Stack
 
- <img align="left" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+ <img align="left" width="30px" style="padding-right:10px;"  src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"  />
+<img align="left" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
