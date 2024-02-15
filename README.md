@@ -1,4 +1,4 @@
-                                                                                        ### Hi there 👋
+                                                                                 ### Hi there 👋
 
 <!--
 **Luyolop1/Luyolop1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Full-stack Developer Building apps and Website using reactjs.
+All my projects are built from the ground up,from planning the aim is to solve real life problems with code,Typically inspired by ideation.
