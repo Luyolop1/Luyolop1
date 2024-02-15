@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm a Full-stack SoftwareDeveloper Building apps and Website using reactjs.
 All my projects are built from the ground up,from planning the aim is to solve real life problems with code,Typically inspired by ideation.
-
-<div class="tenor-gif-embed" data-postid="25548255" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/luffy-gif-25548255">Luffy GIF</a>from <a href="https://tenor.com/search/luffy-gifs">Luffy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/view/luffy-gif-25548255" />
 
  ### My Language and Tools
 
