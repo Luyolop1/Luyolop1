@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🔭Intrested in Astronomy and Illustrations.<br>
 
 
-![]([https://github.com/Luyolop1/Luyolop1/blob/main/81cabb6418a9f6babc3670c4acca3db3.gif](https://github.com/Luyolop1/Luyolop1/blob/main/Gear%205%20Luffy%20Gear%205%20GIF%20-%20Gear%205%20Luffy%20gear%205%20Gear%205%20luffy%20-%20Discover%20%26%20Share%20GIFs.gif))
+![]([https://github.com/Luyolop1/Luyolop1/blob/main/81cabb6418a9f6babc3670c4acca3db3.gif](https://github.com/Luyolop1/Luyolop1/blob/main/Gear%205%20Luffy%20Gear%205%20GIF%20-%20Gear%205%20Luffy%20gear%205%20Gear%205%20luffy%20-%20Discover%20%26%20Share%20GIFs.gif)
 
  ###  Tech Stack
 
